@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @leomanga
 - 👀 I’m interested in AI and Data Science
-- 🌱 I’m currently learning Python and Java
+- 🎓 I'm hustling in the world of computer engineering
 - 📫 How to reach me: leomangani4@gmail.com
